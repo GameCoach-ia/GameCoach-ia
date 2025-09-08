@@ -18,7 +18,7 @@ goals = st.sidebar.multiselect("Objetivos (elige hasta 3):",
 st.sidebar.markdown("---")
 st.sidebar.header("Herramientas")
 st.sidebar.markdown("[Únete al Discord](https://discord.gg/tu-enlace-aqui)")
-st.sidebar.markdown("[Deja feedback](https://forms.gle/tu-form-aqui)")
+st.sidebar.markdown("[Deja feedback](https://docs.google.com/forms/d/e/1FAIpQLSdfotxqdqNkRUKlrktWJO7iOfiht9VCC5mjxGQLNfx37Hf_6w/viewform?usp=header)")
 
 # ---------- Plan semanal ----------
 def gen_week_plan(hours_per_week:int, goals:list):
