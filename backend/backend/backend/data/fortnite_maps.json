@@ -1,0 +1,16 @@
+[
+  {
+    "id": "edit_course_1",
+    "title": "Creative Edit Course - Beginner",
+    "map_code": "1234-5678-9012",
+    "duration_min": 15,
+    "description": "Edit and build speed practice for beginners. Focus on basic box edits and 90s."
+  },
+  {
+    "id": "aim_maps_1",
+    "title": "Aim & Flick Trainer - Intermediate",
+    "map_code": "2345-6789-0123",
+    "duration_min": 20,
+    "description": "Tracking and flick accuracy. Use as warmup before sessions."
+  }
+]
